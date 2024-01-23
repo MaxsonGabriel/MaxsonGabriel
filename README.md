@@ -11,7 +11,7 @@
 - 🛠️ Ferramentas: DevC++ e VSCode
 
 ### 🌱 Aprendendo Atualmente
-- 💽 Explorando o fascinante mundo dos bancos de dados, arquitetura e rede de computadore
+- 💽 Explorando o fascinante mundo dos bancos de dados, arquitetura e rede de computadores
 
 ### 📫 Me encontre no instagram (música):
 - @omaxsonreal
