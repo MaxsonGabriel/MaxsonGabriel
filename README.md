@@ -3,7 +3,7 @@
 ### 🎵 Músico e Estudante de Engenharia de Software
 - 🎶 Apaixonado por música e comprometido com a Engenharia de Software
 - 🌐 Atualmente aprendendo banco de dados e expandindo meu conhecimento em programação
-- 🎓 Tenho 23 anos de idade
+- 🎓 Tenho 23+1 anos de idade
 
 ### 💻 Tecnologias e Ferramentas
 - 🎸 Músico talentoso e entusiasta
